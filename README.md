@@ -28,3 +28,4 @@ I have several smaller projects pinned below in varying languages that I have us
 <br />
 
 [![Jawilkes232's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawilkes232&theme=midnight-purple)](https://github.com/Jawilkes232/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawilkes232&layout=compact&theme=midnight-purple)](https://github.com/Jawilkes232/github-readme-stats)
