@@ -27,4 +27,4 @@ I have several smaller projects pinned below in varying languages that I have us
 <br />
 <br />
 
-[![Jawilkes232's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawilkes232)](https://github.com/Jawilkes232/github-readme-stats&show_icons=true&theme=vision-friendly-dark)
+[![Jawilkes232's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawilkes232&theme=midnight-purple)](https://github.com/Jawilkes232/github-readme-stats)
