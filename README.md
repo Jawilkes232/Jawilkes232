@@ -26,3 +26,5 @@ I have several smaller projects pinned below in varying languages that I have us
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
+
+[![Jawilkes232's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawilkes232)](https://github.com/Jawilkes232/github-readme-stats)
