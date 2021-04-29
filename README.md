@@ -13,8 +13,7 @@ but improve systems and software alike <br />
 JordanWilkes2327@gmail.com
 or follow my Twitter account ... <br />
 <a href=https://twitter.com/jordanWCodes>@JordanWCodes</a>
-### 100DaysOfCode
-If you'd like to check in on my progress with the #100DayOfCode challenge, please check out the pinned code-everyday repo below!
+
 ### Projects
 I have several smaller projects pinned below in varying languages that I have used as opportunities to improve my craft as I progress - please feel free to check them out & leave feedback!
 
