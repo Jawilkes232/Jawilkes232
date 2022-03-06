@@ -10,8 +10,7 @@ allows me to dive further into problems that appear in the entire
 ecosystem. Motivated by innovative drive I seek to not only create,
 but improve systems and software alike <br />
 📫 How to reach me ... <br />
-JordanWilkes2327@gmail.com
-or follow my Twitter account ... <br />
+follow my Twitter account ... <br />
 <a href=https://twitter.com/jordanWCodes>@JordanWCodes</a>
 
 ### Projects
