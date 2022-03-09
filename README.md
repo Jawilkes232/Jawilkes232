@@ -2,8 +2,8 @@
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Jawilkes232)
-Howdy Folks 🤠  I'm Jordan! <br /> 
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Jawilkes232) -->
+Howdy Folks 🤠  I'm Jordan! <br />  
 I am a Software Development Engineer with a background in
 Systems Engineering that focuses on cloud infrastructure which
 allows me to dive further into problems that appear in the entire
