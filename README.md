@@ -10,8 +10,8 @@ allows me to dive further into problems that appear in the entire
 ecosystem. Motivated by innovative drive I seek to not only create,
 but improve systems and software alike <br />
 📫 How to reach me ... <br />
-follow my Twitter account ... <br />
-<a href=https://twitter.com/jordanWCodes>@JordanWCodes</a>
+Come message me on LinkedIn on how I can provide you value!
+<a href="https://www.linkedin.com/in/jordanwilkes443/">LinkedIn </a>
 
 ### Projects
 I have several smaller projects pinned below in varying languages that I have used as opportunities to improve my craft as I progress - please feel free to check them out & leave feedback!
